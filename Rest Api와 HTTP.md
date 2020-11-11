@@ -21,3 +21,9 @@ form 태그는 http메소드 중에서 GET, POST 두가지만 사용하는 태�
 “Representational State Transfer” 의 약자   
 자원을 이름(자원의 표현)으로 구분하여 해당 자원의 상태(정보)를 주고 받는 모든 것을 의미한다.   
 즉, 자원(resource)의 표현(representation) 에 의한 상태 전달
+
+REST API 정보제공 방식
+
+XML
+JSON
+RSS
